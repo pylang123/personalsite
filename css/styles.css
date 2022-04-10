@@ -1,0 +1,143 @@
+
+h1{
+position:relative;
+top:50px;
+font-family: 'Sacramento', cursive;
+font-size:5.625rem;
+margin:50px auto 0 auto;
+color:#66BFBF;
+line-height:2;
+}
+.skill-row{
+width:50%;
+margin:100px auto 100px auto;
+text-align:left;
+line-height:2;
+
+}
+.top-container{
+background-color:#e0ebe8;
+margin:0;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size:2.5rem;
+color:#66BFBF;
+font-weight:normal;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color:#11999E;
+}
+a{
+color:#11999E;
+}
+.programmer{
+position:relative;
+top:50px;
+
+}
+
+body{
+text-align:center;
+margin:0px;
+font-family:'Merriweather',serif;
+color:#40514E;
+}
+.mountain{
+
+}
+.top-container{
+
+padding:50px;
+padding-bottom:0;
+margin-bottom:50px;
+}
+.but{
+background-color:#66BFBF;
+border-radius:8px;
+border-color:#66BFBF;
+color:white;
+height:30px;
+}
+
+.cloud1{
+position:absolute;
+left:200px;
+
+}
+.cloud2{
+position:absolute;
+top:20px;
+right:400px;
+
+}
+.computer{
+width:25%;
+float:left;
+margin-right:20px;
+}
+.chillie{
+width:25%;
+float:right;
+margin-left:30px;
+}
+hr{
+border-style:none;
+border-bottom-style:dotted;
+width:5%;
+border-width:5px;
+border-color:#EAF6F6;
+margin:100px auto;
+}
+.copyright{
+color:#EAF6F6;
+font-size:.75rem;
+}
+
+.Ppara{
+width:90%;
+}
+
+p{
+line-height:2;
+}
+.bottom-container{
+background-color:#66BFBF;
+padding:50px;
+margin-top:70px;
+}
+.btn {
+  line-height:4;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather',serif;
+  color: #fffcff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+a{
+margin:10px 20px;
+text-decoration:none;
+font-family: 'Montserrat', sans-serif;
+}
+a:hover {
+  color:#EAF6F6 ;
+}
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #34d9d9);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #34d9d9);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #34d9d9);
+  background-image: -o-linear-gradient(top, #3cb0fd, #34d9d9);
+  background-image: linear-gradient(to bottom, #3cb0fd, #34d9d9);
+  text-decoration: none;
+}
